@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "m-wiki",
-	"description": "Automatically redirects Wikipedia to the mobile version.",
-	"author": "Jathu Satkunarajah",
+	"name": "WikipediaMobile2Desktop",
+	"description": "Automatically redirects Wikipedia to the desktop version from mobile.",
+	"author": "Jathu Satkunarajah, Joshua Landman",
 	"version": "2.1",
 	"permissions": [
 		"http://*.wikipedia.org/wiki/*",
